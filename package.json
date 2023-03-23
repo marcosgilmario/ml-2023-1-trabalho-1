@@ -1,0 +1,19 @@
+{
+  "name": "ml-2023-1-trabalho-1",
+  "version": "1.0.0",
+  "description": "\"Trabalho 1 da disciplina de Aprendizado de Máquinas 2023.1\"",
+  "main": "index.js",
+  "repository": "https://github.com/marcosgilmario/ml-2023-1-trabalho-1",
+  "author": "MARCOS GILMÁRIO FERREIRA MOREIRA",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "fs": "^0.0.1-security",
+    "pandas-js": "^0.2.4",
+    "xlsx": "^0.18.5"
+  }
+}

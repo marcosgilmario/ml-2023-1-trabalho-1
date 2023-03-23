@@ -1,0 +1,50 @@
+# Dependências instaladas pelo npm
+/node_modules
+
+# Cache do Yarn
+.yarn/*
+!.yarn/cache/
+!.yarn/releases/
+
+# Arquivos de build gerados pela plataforma Node.js
+/build
+
+# Logs de depuração do Node.js
+npm-debug.log*
+
+# Arquivos de registro
+logs
+*.log
+
+# Arquivos temporários
+/tmp
+
+# Diretório do VSCode
+.vscode
+
+# Arquivos gerados pela IDE
+.idea
+
+# Arquivos de compilação TypeScript
+*.js.map
+
+# Arquivos de configuração do projeto
+config/*.json
+
+# Arquivos de ambiente
+.env
+
+# Arquivos gerados pelos testes
+coverage
+
+# Arquivos de cache do Jest
+.cache
+
+# Diretório de arquivos gerados pelo ESLint
+/eslint
+
+# Diretório de arquivos gerados pelo Prettier
+/prettier
+
+# Diretório de arquivos gerados pelo Babel
+/dist
